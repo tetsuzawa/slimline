@@ -1,8 +1,10 @@
+<!-- 
 ![frontend](https://github.com/VG-Tech-Dojo/treasure-2020-b/workflows/frontend/badge.svg)
 ![backend](https://github.com/VG-Tech-Dojo/treasure-2020-b/workflows/backend/badge.svg)
 ![migrate](https://github.com/VG-Tech-Dojo/treasure-2020-b/workflows/migrate/badge.svg)
 ![ci](https://github.com/VG-Tech-Dojo/treasure-2020-b/workflows/ci/badge.svg)
 ![reviewdog](https://github.com/VG-Tech-Dojo/treasure-2020-b/workflows/reviewdog/badge.svg)
+-->
 
 ![title_slide](https://user-images.githubusercontent.com/38237246/94214743-5b564d00-ff15-11ea-9660-8aeeaf63ce36.png)
 
